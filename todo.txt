@@ -1,0 +1,1 @@
+especificar cores em rgb, amplitude de claridade, amplitude de raio dos objetos.
