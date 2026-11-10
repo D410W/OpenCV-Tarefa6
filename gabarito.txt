@@ -36,5 +36,5 @@ Imagem 7: 49
 Imagem 8: 48
 	Vermelho: 11
 	Amarelo: 11
-	Verde: 14
+	Verde: 15
 	Azul: 12
